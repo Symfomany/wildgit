@@ -1,2 +1,2 @@
-### Hello WildCodeSchool (On en est a la version 3)
-# Je suis la version 1.0
+### Hello WildCodeSchool (On en est a la version 4)
+# Je suis la version 4.0
