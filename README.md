@@ -1,2 +1,2 @@
-### Hello WildCodeSchool (On en est a la version 5)
-# Je suis la version 5.0
+### Hello WildCodeSchool (On en est a la version 6)
+# Je suis la version 6.0
