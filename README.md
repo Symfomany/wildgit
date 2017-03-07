@@ -1,1 +1,1 @@
-### Hello WildCodeSchool
+### Hello WildCodeSchool 1.0
